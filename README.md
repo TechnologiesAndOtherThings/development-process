@@ -46,4 +46,4 @@ Este processo destina-se a orientar as equipes de desenvolvimento de software at
 
 ---
 
-Para informações detalhadas do processo, consulte a [página do processo](https://github.com/lilithmorgan/development-pattern/wiki/Processo-de-Desenvolvimento-de-Software).
+Para informações detalhadas do processo, consulte a [página do processo](https://github.com/TechnologiesAndOtherThings/development-process/wiki/Development%E2%80%90Process).
